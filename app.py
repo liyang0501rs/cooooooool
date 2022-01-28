@@ -1,2 +1,3 @@
 import streamlit as st
-st.write('a new app !')
+for i in range(50):
+  st.write('惠明大耳鼻!')
