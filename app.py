@@ -1,3 +1,3 @@
 import streamlit as st
-for i in range(50):
-  st.write('惠明大耳鼻!')
+for i in range(10):
+  st.write('test!')
